@@ -1,0 +1,45 @@
+*Sections roughly 1/4 pg
+(Section 1)
+
+    This is going to be a mock divorce lawyer page
+
+    Header logo will be some generic lawyer mark/text.
+    Header links will have dead-links(#) to info
+        i.e Services, Consultation, Our Mission
+
+
+    H1 is going to say: Your marriage is failing
+        in the subtext something like, "and it feels like you're about to lose EVERYTHING. Fortunately, jubasfuahf can help."
+
+    Image on right will be divorce paper on desk.
+
+
+(Section 2)
+
+    Header of "Our Team Members"
+        followed by images of random people who look lawyer-y with corresponding titles (name/role) beneath each. Reference actual divorce site for an idea of the different occupations.
+
+
+(Section 3)
+
+    The 3/4 down the page quote part will be some vague, weird claim from the team's leading lawyer like, "For every case that is lost, a case is won."
+    -lawyer dude
+
+(Section 4)
+
+    Probably will just put a, "contact us now" call to action with a button that says "Contact" on it.
+    
+    So I don't forget, the footer should be included here too.
+
+
+(Plan of Action)
+1) Come up with company name and team member names
+2) Collect images
+3) Make html file that uses 4 main flexbox section in the body/container. (Master flexbox probably flex-direction: column)
+4) Write in content going top to bottom
+5) Edit CSS file
+6) Fix bugs
+7) Profit
+
+*Dont forget to git commit often
+**ref2.png has critical font requirements for this project
