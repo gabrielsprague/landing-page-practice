@@ -171,3 +171,10 @@ padding: 20px 150px;
     padding: 5px 20px;
 
 }
+
+.section-6 {
+    display: inline-block;
+    background-color: #1f2937;
+    color: #F9FAF8;
+    text-align: center;
+}
