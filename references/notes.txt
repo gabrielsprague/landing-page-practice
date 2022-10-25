@@ -1,4 +1,4 @@
-*Sections roughly 1/4 pg
+*Sections are each roughly 1/4 of webpage
 (Section 1)
 
     This is going to be a mock divorce lawyer page
@@ -8,28 +8,31 @@
         i.e Services, Consultation, Our Mission
 
 
+(Section 2)
+
     H1 is going to say: Your marriage is failing
         in the subtext something like, "and it feels like you're about to lose EVERYTHING. Fortunately, jubasfuahf can help."
 
     Image on right will be divorce paper on desk.
 
 
-(Section 2)
+(Section 3)
 
     Header of "Our Team Members"
         followed by images of random people who look lawyer-y with corresponding titles (name/role) beneath each. Reference actual divorce site for an idea of the different occupations.
 
 
-(Section 3)
+(Section 4)
 
     The 3/4 down the page quote part will be some vague, weird claim from the team's leading lawyer like, "For every case that is lost, a case is won."
     -lawyer dude
 
-(Section 4)
+(Section 5)
 
     Probably will just put a, "contact us now" call to action with a button that says "Contact" on it.
     
-    So I don't forget, the footer should be included here too.
+(Section 6)
+    Footer, nuff said.
 
 
 (Plan of Action)
