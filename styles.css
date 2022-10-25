@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .container {
@@ -68,9 +69,10 @@ align-items: stretch;
 }
 
 .section-2 img {
+    align-items: flex-end;
     width: 350px;
     height: auto;
-    align-items: flex-end;
+    object-fit: contain;
 }
 
 .section-3 {
@@ -113,15 +115,34 @@ align-items: stretch;
     border-radius: 15px;
     width: 200px;
     height: 200px;
+    object-fit: cover;
+}
+
+#bob {
+    object-position: 0 10%;
+}
+
+#lulu {
+    object-fit: none;
+    object-position: 58% 35%;
+}
+
+#tom {
+    object-position: 0 10%;
+}
+
+#stacey {
+    object-fit: none;
+    object-position: 35% 5px;
 }
 
 .section-4 {
-background-color: #d8d8d8;
-display: flex;
-flex-wrap: wrap;
-flex-direction: column;
-align-items: center;
-padding: 20px 150px;
+    background-color: #d8d8d8;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px 150px;
 }
 
 .section-4 .quote {
@@ -145,6 +166,7 @@ padding: 20px 150px;
     width: 600px;
     margin: 50px;
     background-color: #3882F6;
+    border-radius: 15px;
 }
 
 .section-5 .text {
@@ -158,6 +180,7 @@ padding: 20px 150px;
 
 .section-5 h3 {
     margin-bottom: 7px;
+    font-weight: 900;
 }
 
 .section-5 p {
@@ -169,6 +192,10 @@ padding: 20px 150px;
     width: 175px;
     margin-right: 50px;
     padding: 5px 20px;
+    background-color: #3882F6;
+    border: 2px solid #F9FAF8;
+    border-radius: 5px;
+    color: #F9FAF8;
 
 }
 
