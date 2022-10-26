@@ -82,6 +82,7 @@ align-items: stretch;
     align-items: center;
     min-height: 200px;
     max-height: fit-content;
+    margin-bottom: 20px;
 }
 
 .section-3 h2 {
@@ -106,6 +107,8 @@ align-items: stretch;
     align-items: center;
     color: #505050;
     font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
     text-align: center;
     max-width: 300px;
 }
